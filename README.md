@@ -1,2 +1,2 @@
-# Lab-Project
-lazy loading 
+#Lab Project 
+based upon Lazy Loading concept 
